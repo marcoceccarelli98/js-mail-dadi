@@ -18,5 +18,5 @@ if (userRoll > cpuRoll) { //-if userRoll is higher than cpuRoll
     console.log('You Lose!');
 } else { //-else
     //-print "Draw!"
-    console.log('You Draw!');
+    console.log('Draw!');
 }
